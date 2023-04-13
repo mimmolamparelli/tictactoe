@@ -10,8 +10,8 @@ game = [["", "", ""], ["", "", ""], ["", "", ""]]
 XWinMoves = [["", "X", "X"], ["X", "", "X"], ["X", "X", ""]]
 
 
-def changesomethong():
-    print("changed in repl")
+def changesomething():
+    print("changed in repl test 04")
 
 
 def checkValue(m, p):
