@@ -11,7 +11,7 @@ XWinMoves = [["", "X", "X"], ["X", "", "X"], ["X", "X", ""]]
 
 
 def changesomethong():
-    pass
+    print("changed in repl")
 
 
 def checkValue(m, p):
